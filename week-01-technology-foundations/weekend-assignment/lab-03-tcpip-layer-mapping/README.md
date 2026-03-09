@@ -9,7 +9,7 @@ Map common networking protocols to their correct TCP/IP model layer.
 
 The TCP/IP model explains how data travels across networks and the internet. It consists of four layers that work together to move data from one device to another.
 
----
+
 
 ## TCP/IP Layers
 
