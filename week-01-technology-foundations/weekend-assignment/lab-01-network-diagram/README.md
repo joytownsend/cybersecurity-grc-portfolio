@@ -4,6 +4,7 @@ Author: Joy Townsend
 
 Date: March 7, 2026
 
+
 Objective
 
 Create a basic home network diagram and explain how data flows between devices and the internet.
