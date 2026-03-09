@@ -8,7 +8,7 @@ Create a basic home network diagram and explain how data flows between devices a
 
 Network Diagram
 
-(Insert diagram screenshot here)
+![Home Network Diagram](lab1_home_network_diagram.png)
 
 Explanation
 
