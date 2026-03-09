@@ -16,7 +16,6 @@ Frequency Band: 5 GHz
 <img width="586" height="397" alt="image" src="https://github.com/user-attachments/assets/3d689e52-8e79-488c-9304-d7a29cb9a8e6" />
 
 
-![WiFi Network Details](wifi_network_details.png)
 
 Note: The WiFi network name is not shown in this portfolio to protect personal network information.
 
